@@ -15,11 +15,13 @@ Phase 1: Research and scope defiinition
 - RAG for operational documentation
 - Small-model RCA performance
 - Available Nutanix APIs, alerts, metrics and logs
+
 Phase 2: Nutanix playground
 - Nutanix test environment
 - Prism access
 - Metric and event collection
 - Check if possible to trigger certain metrics
+
 Phase 3: Nutanix RAG
 - Authorized Nutanix documentation collection
 - Nutanix Knowledege based articles
